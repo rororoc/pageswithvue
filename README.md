@@ -2,7 +2,7 @@
 
 > some vue demos
 
-## Build Setup
+## 使用方法
 
 ``` bash
 # install dependencies
