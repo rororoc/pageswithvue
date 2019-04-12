@@ -38,9 +38,7 @@
       line-height: .6rem
       border-radius 0.06rem
       color: #e4e7ea
-      white-space: nowrap
-      text-overflow: ellipsis
-      overflow hidden
+      ellipsis()
       .iconfont
         font-size 0.34rem
     .header-right
