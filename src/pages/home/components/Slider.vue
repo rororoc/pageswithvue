@@ -16,9 +16,9 @@
           return {
             swiperOption: {
               pagination: '.swiper-pagination',
-              loop:true
+              loop:true,
+              autoplay: 3000
             },
-
             list: [
               {
                 id: '001',
